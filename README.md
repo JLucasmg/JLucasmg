@@ -57,12 +57,12 @@ Além disso, com o intuito de auxiliar ingressantes nos cursos de Engenharia, co
     <img alt="Apache Airflow" title="Apache Airflow" width="40" src="https://cdn.simpleicons.org/apacheairflow/017CEE" />
     <img alt="Apache Spark" title="Apache Spark" width="40" src="https://cdn.simpleicons.org/apachespark/E25A1C" />
     <img alt="Apache Kafka" title="Apache Kafka" width="40" src="https://cdn.simpleicons.org/apachekafka/000000" />
-    <img alt="dbt" title="dbt" width="40" src="https://cdn.simpleicons.org/dbt/FF694B" />
+    <img align="left" alt="dbt" title="dbt"width="30px" style="padding-right: 10px;" src="https://cdn.simpleicons.org/dbt/FF694B" />
 </p>
 
 **Cloud & Infraestrutura**
 <p align="left">
-    <img alt="AWS" title="Amazon Web Services" width="40" src="https://cdn.simpleicons.org/amazonaws/FF9900" />
+    <img align="left" alt="AWS" title="Amazon Web Services"width="30px" style="padding-right: 10px;" src="https://cdn.simpleicons.org/amazonwebservices/FF9900" />
     <img alt="Google Cloud" title="Google Cloud" width="40" src="https://cdn.simpleicons.org/googlecloud/4285F4" />
     <img alt="Terraform" title="Terraform" width="40" src="https://cdn.simpleicons.org/terraform/7B42BC" />
 </p>
