@@ -43,8 +43,6 @@ Além disso, com o intuito de auxiliar ingressantes nos cursos de Engenharia, co
 
 ### 🤖 Linguagens e Tecnologias
 
-### 🤖 Linguagens e Tecnologias
-
 **Linguagens & Bancos de Dados**
 <p align="left">
     <img alt="Python" title="Python" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
