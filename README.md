@@ -43,25 +43,16 @@ Além disso, com o intuito de auxiliar ingressantes nos cursos de Engenharia, co
 
 ### 🤖 Linguagens e Tecnologias
 
-**Linguagens & Bancos de Dados**
 <p align="left">
     <img alt="Python" title="Python" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
     <img alt="SQL" title="SQL" width="40" src="https://cdn.simpleicons.org/postgresql/4169E1" />
     <img alt="Git" title="Git" width="40" src="https://cdn.simpleicons.org/git/F05032" />
     <img alt="Linux" title="Linux" width="40" src="https://cdn.simpleicons.org/linux/FCC624" />
-</p>
-
-**Orquestração & Processamento de Dados**
-<p align="left">
     <img alt="Docker" title="Docker" width="40" src="https://cdn.simpleicons.org/docker/2496ED" />
     <img alt="Apache Airflow" title="Apache Airflow" width="40" src="https://cdn.simpleicons.org/apacheairflow/017CEE" />
     <img alt="Apache Spark" title="Apache Spark" width="40" src="https://cdn.simpleicons.org/apachespark/E25A1C" />
     <img alt="Apache Kafka" title="Apache Kafka" width="40" src="https://cdn.simpleicons.org/apachekafka/000000" />
     <img align="left" alt="dbt" title="dbt"width="30px" src="https://cdn.simpleicons.org/dbt/FF694B" />
-</p>
-
-**Cloud & Infraestrutura**
-<p align="left">
     <img align="left" alt="AWS" title="Amazon Web Services"width="30px" src="https://cdn.simpleicons.org/amazonwebservices/FF9900" />
     <img alt="Google Cloud" title="Google Cloud" width="40" src="https://cdn.simpleicons.org/googlecloud/4285F4" />
     <img alt="Terraform" title="Terraform" width="40" src="https://cdn.simpleicons.org/terraform/7B42BC" />
