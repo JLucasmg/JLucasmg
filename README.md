@@ -2,9 +2,9 @@
 
 **`Eng. de Materiais (UNIFESP) | Aprendendo Engenharia de Dados | Python & SQL`**
 
-Me chamo João Lucas Melo Garcia, tenho 24 anos e sou natural de São José dos Campos, SP. Concluí o ensino médio no Colégio COC em paralelo com um Curso de Aprendizagem Industrial de Mecânica de Usinagem no SENAI, como menor aprendiz da EMBRAER. Atualmente, estou cursando Engenharia de Materiais na UNIFESP SJC. 
+Me chamo João Lucas Melo Garcia, tenho 24 anos e sou natural de São José dos Campos, SP. Bacharel em Ciência e Tecnologia pela Universidade Federal de São Paulo e cursando Engenharia de Materiais pela mesma instituição. 
 
-Fora da graduação, me interessei muito pela parte de Engenharia de Dados e comecei a estudá-la, aplicando a lógica desenvolvida para trabalhar com SQL, Python, pipelines de dados e cloud. Estou documentando essa jornada publicamente seguindo um roadmap estruturado, e você pode acompanhar meu progresso no repositório [roadmap-engenharia-de-dados] 
+Fora da graduação, entusiasta de tecnologia e programação. Forte interesse pela trilha de Engenharia de Dados, assim, comecei a estudá-la, aplicando a lógica desenvolvida em minhas graduações para trabalhar com SQL, Python, pipelines de dados e cloud. Estou documentando essa jornada publicamente seguindo um roadmap estruturado, e você pode acompanhar meu progresso no repositório [roadmap-engenharia-de-dados].
 
 Além disso, com o intuito de auxiliar ingressantes nos cursos de Engenharia, compartilho meu conhecimento em matérias do ciclo básico através do meu canal no Youtube "[Descomplicando a Engenharia](https://www.youtube.com/@DescomplicandoaEngenharia-j7o)".
 
